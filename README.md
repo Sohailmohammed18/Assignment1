@@ -1,1 +1,1 @@
-Basic statistics on python using numpy
+Basic statistics on python using Pandas,Numpy and matplotlib.pyplot
